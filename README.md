@@ -1,4 +1,4 @@
-# terno
+# termo
 
 criação de um jogo inspirado no termo disponivel no navegador. na adaptação feita o usuario tem que escolher um numero de 1 a 40, cada numero está associado a uma palavra do arquivo palavras.txt
 a partir disso você pode jogar normalmente.
